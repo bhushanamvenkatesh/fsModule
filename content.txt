@@ -1,0 +1,6 @@
+1.Reading file
+2.writing a file 
+3.updating a file
+4.removing a file
+5.renaming a file name
+appending data to the exiting fileappending data to the exiting fileappending data to the exiting file
